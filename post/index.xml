@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>mon0mon&#39;s blog</title>
-        <link>https://mon0mon.github.io/</link>
-        <description>Recent content on mon0mon&#39;s blog</description>
+        <title>Posts on mon0mon&#39;s blog</title>
+        <link>https://mon0mon.github.io/post/</link>
+        <description>Recent content in Posts on mon0mon&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ko-kr</language>
-        <lastBuildDate>Fri, 09 Jun 2023 10:50:39 +0900</lastBuildDate><atom:link href="https://mon0mon.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 09 Jun 2023 10:50:39 +0900</lastBuildDate><atom:link href="https://mon0mon.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>First Post</title>
         <link>https://mon0mon.github.io/post/first-post/</link>
         <pubDate>Fri, 09 Jun 2023 10:50:39 +0900</pubDate>
