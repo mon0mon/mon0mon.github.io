@@ -2,16 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mon0mon.github.io/post/first-post/</loc>
-    <lastmod>2023-06-09T10:50:39+09:00</lastmod>
-  </url><url>
     <loc>https://mon0mon.github.io/</loc>
-    <lastmod>2023-06-09T10:50:39+09:00</lastmod>
+    <lastmod>2023-06-10T05:25:28+09:00</lastmod>
   </url><url>
     <loc>https://mon0mon.github.io/post/</loc>
+    <lastmod>2023-06-10T05:25:28+09:00</lastmod>
+  </url><url>
+    <loc>https://mon0mon.github.io/p/second-post/</loc>
+    <lastmod>2023-06-10T05:25:28+09:00</lastmod>
+  </url><url>
+    <loc>https://mon0mon.github.io/p/first-post/</loc>
     <lastmod>2023-06-09T10:50:39+09:00</lastmod>
   </url><url>
+    <loc>https://mon0mon.github.io/archives/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mon0mon.github.io/page/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mon0mon.github.io/</loc>
+  </url><url>
     <loc>https://mon0mon.github.io/categories/</loc>
+  </url><url>
+    <loc>https://mon0mon.github.io/search/</loc>
   </url><url>
     <loc>https://mon0mon.github.io/tags/</loc>
   </url>
